@@ -1,3 +1,3 @@
 # EDA
 
-EDA and Data Visulization mini projects
+EDA and Data Visulization projects
