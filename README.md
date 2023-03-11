@@ -1,3 +1,3 @@
 # EDA
 
-EDA and Data Visulization projects
+I share my EDA studies from various sources
